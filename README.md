@@ -27,17 +27,22 @@
 
 ---
 
+<h2 align="center">🌟 My Projects</h2>
+
+<p align="center">
+  <h3>✨ <a href="https://blabber-zeta.vercel.app/">Blabber</a></h3>
+  <p>A microblogging platform, kind of like Twitter.</p>
+</p>
+
+<p align="center">
+  <h3>🎮 <a href="https://pierdupierdu.vercel.app/">Pierdupierdu</a></h3>
+  <p>A website for watching anime.</p>
+</p>
+
+---
+
 <h2 align="center">🕹️ Contribution Graph</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RUTUJEKWIELKI/RUTUJEKWIELKI/main/github-user-contribution.svg" alt="contribution graph" />
 </div>
-
----
-
-<h2 align="center">🔗 My Projects</h2>
-
-<p align="center">
-  ✨ <a href="https://blabber-zeta.vercel.app/">Blabber</a> — a microblogging platform, kind of like Twitter. <br/>
-  🎮 <a href="https://pierdupierdu.vercel.app/">Pierdupierdu</a> — a website for watching anime.
-</p>
