@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "login": "RUTUJEKWIELKI",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "RUTUJEK",
+    "subtitle": "A technikum student building Klyro, PierduPierdu and whatever idea refuses to leave me alone.",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Poland · Olsztyn"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · React · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "I am",
+    "items": [
+      {
+        "icon": "palette",
+        "label": "Building Klyro, PierduPierdu and Strafe"
+      },
+      {
+        "icon": "favorite",
+        "label": "Most days: React, Node.js and PostgreSQL"
+      },
+      {
+        "icon": "favorite",
+        "label": "Open-source enthusiast, when the code behaves"
+      },
+      {
+        "icon": "favorite",
+        "label": "Likes clean UI, stable deploys and fewer ads"
+      },
+      {
+        "icon": "favorite",
+        "label": "If it works locally, the story is not over yet."
+      },
+      {
+        "icon": "favorite",
+        "label": "Strafe.js is a TypeScript toolkit for building real-time web apps"
+      },
+      {
+        "icon": "favorite",
+        "label": "Musicalholic"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Technologies",
+    "groups": [
+      {
+        "title": "Languages & frameworks",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Cloud & infrastructure",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:railway",
+            "label": "Railway"
+          },
+          {
+            "icon": "brand:neon",
+            "label": "Neon"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:resend",
+            "label": "Resend"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "AWS"
+          },
+          {
+            "icon": "brand:github",
+            "label": "S3"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:mongodb",
+            "label": "MongoDB"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:kubernetes",
+            "label": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "Other languages",
+        "items": [
+          {
+            "icon": "brand:github",
+            "label": "SQL"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "RUTUJEKWIELKI"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/RUTUJEKWIELKI"
+      },
+      {
+        "icon": "link",
+        "url": "https://pierdupierdu.pl"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://github.com/strafe-js/strafe.js"
+      }
+    ],
+    "variant": "icon",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "My repositories",
+        "url": "https://github.com/RUTUJEKWIELKI?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
