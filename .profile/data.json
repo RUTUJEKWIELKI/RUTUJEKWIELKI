@@ -1,8 +1,8 @@
 {
- "key": "84d4b143",
+ "key": "a0c3e73",
  "stars": 0,
- "contributions": 254,
- "repos": 1,
+ "contributions": 255,
+ "repos": 2,
  "followers": 0,
  "languages": [],
  "days": [
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 28,
     "today": true
    },
@@ -107,11 +107,20 @@
   ]
  ],
  "streak": {
-  "current": 8,
-  "longest": 8
+  "current": 9,
+  "longest": 9
  },
  "pins": [],
  "all": [
+  {
+   "name": "Project-Kill-THE-FINGERS",
+   "url": "https://github.com/RUTUJEKWIELKI/Project-Kill-THE-FINGERS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "RUTUJEKWIELKI",
    "url": "https://github.com/RUTUJEKWIELKI/RUTUJEKWIELKI",
