@@ -1,5 +1,5 @@
 {
- "key": "938e05d8",
+ "key": "aa9e3fb6",
  "stars": 0,
  "contributions": 337,
  "repos": 3,
@@ -101,12 +101,12 @@
  "pins": [],
  "all": [
   {
-   "name": "Zjebrowser",
-   "url": "https://github.com/RUTUJEKWIELKI/Zjebrowser",
-   "text": "All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊",
+   "name": "uwufox",
+   "url": "https://github.com/RUTUJEKWIELKI/uwufox",
+   "text": "The official UwUfox 👉👈 source code repository",
    "fork": true,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "JavaScript",
    "topics": []
   },
   {
