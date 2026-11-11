@@ -1,29 +1,29 @@
 {
- "key": "fa05bca9",
+ "key": "21c19f9e",
  "stars": 0,
- "contributions": 361,
+ "contributions": 357,
  "repos": 3,
  "followers": 0,
  "languages": [],
  "days": [
   [
    {
-    "c": 6,
+    "c": 0,
     "day": 25,
     "today": false
    },
    {
-    "c": 2,
+    "c": 1,
     "day": 26,
     "today": false
    },
    {
-    "c": 2,
+    "c": 1,
     "day": 27,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 28,
     "today": false
    },
@@ -50,7 +50,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 2,
     "today": false
    },
@@ -75,7 +75,7 @@
     "today": false
    },
    {
-    "c": 14,
+    "c": 11,
     "day": 7,
     "today": false
    }
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 11,
     "day": 11,
     "today": true
    },
@@ -107,11 +107,20 @@
   ]
  ],
  "streak": {
-  "current": 5,
-  "longest": 10
+  "current": 6,
+  "longest": 6
  },
  "pins": [],
  "all": [
+  {
+   "name": "LibrusUltra",
+   "url": "https://github.com/RUTUJEKWIELKI/LibrusUltra",
+   "text": "Rozszerzenie dla przeglądarek do Librusa - najpopularniejszego e-dziennika w Polsce - wprowadzające ciemny motyw, liczące średnie ocen, mimo ich wyłączenia przez Administratora, wyświetlające procentową frekwencję z każdego przedmiotu, pozwalające na tworzenie własnych wydarzeń w terminarzu oraz dodające wiele usprawnień funkcjonalności i wyglądu.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "uwufox",
    "url": "https://github.com/RUTUJEKWIELKI/uwufox",
@@ -119,15 +128,6 @@
    "fork": true,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Project-Kill-THE-FINGERS",
-   "url": "https://github.com/RUTUJEKWIELKI/Project-Kill-THE-FINGERS",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   },
   {
