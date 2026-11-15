@@ -1,7 +1,7 @@
 {
- "key": "dc2335c3",
+ "key": "b1531b61",
  "stars": 0,
- "contributions": 364,
+ "contributions": 327,
  "repos": 4,
  "followers": 0,
  "languages": [],
@@ -38,7 +38,7 @@
     "today": false
    },
    {
-    "c": 11,
+    "c": 10,
     "day": 7,
     "today": false
    }
@@ -60,12 +60,12 @@
     "today": false
    },
    {
-    "c": 11,
+    "c": 9,
     "day": 11,
     "today": false
    },
    {
-    "c": 4,
+    "c": 8,
     "day": 12,
     "today": false
    },
@@ -82,7 +82,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 15,
     "today": true
    },
@@ -95,11 +95,20 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 7
  },
  "pins": [],
  "all": [
+  {
+   "name": "ZjebOS",
+   "url": "https://github.com/RUTUJEKWIELKI/ZjebOS",
+   "text": "This is repository of ZjebOS (forked from CachyOS)",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
   {
    "name": "Rhythm-game",
    "url": "https://github.com/RUTUJEKWIELKI/Rhythm-game",
@@ -107,15 +116,6 @@
    "fork": true,
    "stars": 0,
    "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "LibrusUltra",
-   "url": "https://github.com/RUTUJEKWIELKI/LibrusUltra",
-   "text": "Rozszerzenie dla przeglądarek do Librusa - najpopularniejszego e-dziennika w Polsce - wprowadzające ciemny motyw, liczące średnie ocen, mimo ich wyłączenia przez Administratora, wyświetlające procentową frekwencję z każdego przedmiotu, pozwalające na tworzenie własnych wydarzeń w terminarzu oraz dodające wiele usprawnień funkcjonalności i wyglądu.",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
