@@ -1,5 +1,5 @@
 {
- "key": "b1531b61",
+ "key": "4466cf40",
  "stars": 0,
  "contributions": 327,
  "repos": 4,
@@ -84,9 +84,13 @@
    {
     "c": 2,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
