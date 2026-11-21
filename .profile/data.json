@@ -1,7 +1,7 @@
 {
- "key": "209080be",
+ "key": "cecf705e",
  "stars": 0,
- "contributions": 342,
+ "contributions": 343,
  "repos": 6,
  "followers": 0,
  "languages": [],
@@ -107,11 +107,15 @@
     "today": false
    },
    {
-    "c": 14,
+    "c": 15,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
